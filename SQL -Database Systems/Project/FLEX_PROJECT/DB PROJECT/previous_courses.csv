@@ -1,0 +1,24 @@
+Student_Id,Course_Id,Course_Name,Grade
+1,CS-1001,Programming Fundamentals,C-
+1,CS-1009,Calculus and Analytical Geometry,C+
+1,CS-1011,Islamic Studies,A+
+1,CS-1013,Applied Physics,B+
+2,CS-1001,Programming Fundamentals,C-
+2,CS-1009,Calculus and Analytical Geometry,C+
+2,CS-1011,Islamic Studies,A+
+2,CS-1013,Applied Physics,B+
+2,CS-1002,Object Oriented Programmimg,A+
+2,CS-1007,Digital Logic Design,B+
+2,CS-1010,Differential Equations,C
+2,CS-1012,Pakistan Studies,D
+3,CS-1001,Programming Fundamentals,C
+3,CS-1009,Calculus and Analytical Geometry,C
+3,CS-1011,Islamic Studies,B+
+3,CS-1013,Applied Physics,B+
+3,CS-1002,Object Oriented Programmimg,B+
+3,CS-1007,Digital Logic Design,C
+3,CS-1010,Differential Equations,C
+3,CS-1012,Pakistan Studies,A+
+3,CS-1003,Data Structures,A+
+3,CS-1008,COAL,B+
+3,CS-1014,Linear Algebra,C

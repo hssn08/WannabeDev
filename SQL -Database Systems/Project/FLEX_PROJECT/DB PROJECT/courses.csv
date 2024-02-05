@@ -1,0 +1,16 @@
+course_code,couse_name,credit_hrs,semester,pre_req
+CS-1001,Programming Fundamentals,3,1,
+CS-1002,Object Oriented Programmimg,3,2,CS-1001
+CS-1003,Data Structures,3,3,CS-1002
+CS-1004,Data Base,3,4,CS-1003
+CS-1005,Operating System,3,4,CS-1003
+CS-1006,Design and Analysis of Algorithms,3,4,CS-1003
+CS-1007,Digital Logic Design,3,2,
+CS-1008,COAL,3,3,CS-1007
+CS-1009,Calculus and Analytical Geometry,3,1,
+CS-1010,Differential Equations,3,2,CS-1009
+CS-1011,Islamic Studies,3,1,
+CS-1012,Pakistan Studies,3,2,
+CS-1013,Applied Physics,3,1,
+CS-1014,Linear Algebra,3,3,
+CS-1015,Probability and Statistics,3,4,CS-1014

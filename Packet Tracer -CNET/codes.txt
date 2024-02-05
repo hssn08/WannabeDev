@@ -1,0 +1,40 @@
+ospf 1-ospf2
+en
+config t
+router ospf 1
+redistribute ospf 2 subnets
+exit
+router ospf 2
+redistribute osfp 1 subnets
+exit
+end
+
+
+ospf1-eigrp11
+en
+config t
+router ospf 1
+redistribute eigrp 11 subnets
+exit
+router eigrp 11
+redistribute ospf 1 metric 10000 1 255 1 100
+exit
+end
+
+eigrp 11-rip
+router eigrp 11
+redistribute rip metric 10000 1 255 1 00
+exit
+router rip
+redistribute eigrp 11 metric 1
+end
+
+ospf1-rip
+en
+config t
+router ospf 1
+redistribute rip subnets
+exit
+router rip
+redistribute ospf1 metric 1
+

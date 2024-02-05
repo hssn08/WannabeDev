@@ -1,0 +1,11 @@
+Faculty_Id,username,Faculty_Name,Campus,DOB,BLOOD,GENDER,CNIC,Emails,Mobile_No,Address
+51,farhanismail,Farhan Ismail,ISLAMABAD,09/09/1999,A+,M,7451247512365,farhanismail@gmail.com,03185454416,house# 1 DHA 
+52,rabiayounas,Rabia Younas,ISLAMABAD,10/09/1999,B+,F,7451247512366,rabiayounas@gmail.com,03185454416,house# 2 DHA 
+53,yasirkhan,Yasir Khan,ISLAMABAD,11/09/1999,A-,M,7451247512367,yasirkhan@gmail.com,03185454416,house# 3 DHA 
+54,alikamran,Ali Kamran,ISLAMABAD,12/09/1999,B-,M,7451247512368,alikamran@gmail.com,03185454416,house# 4 DHA 
+55,ayeshakhan,Ayesha Khan,ISLAMABAD,13/09/1999,O+,F,7451247512369,ayeshakhan@gmail.com,03185454416,house# 5 DHA 
+56,muhammadahmed,Muhammad Ahmed,ISLAMABAD,14/09/1999,O-,M,7451247512370,muhammadahmed@gmail.com,03185454416,house# 6 DHA 
+57,fatimaali,Fatima Ali,ISLAMABAD,15/09/1999,AB+,F,7451247512371,fatimaali@gmail.com,03185454416,house# 7 DHA 
+58,alikhan,Ali Khan,ISLAMABAD,16/09/1999,AB-,M,7451247512372,alikhan@gmail.com,03185454416,house# 8 DHA 
+59,zainabahmed,Zainab Ahmed,ISLAMABAD,17/09/1999,O-,F,7451247512373,zainabahmed@gmail.com,03185454416,house# 9 DHA 
+60,hassanali,Hassan Ali,ISLAMABAD,18/09/1999,A-,M,7451247512374,hassanali@gmail.com,03185454416,house# 10 DHA 

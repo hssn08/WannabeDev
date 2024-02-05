@@ -1,0 +1,11 @@
+Admin_Id,UserName,Admin_Name,Campus,DOB,Blood,Gender,CNIC,Emails,Mobile_No,Address,Home_Contact,Guardian_Name
+61,mahamfarooq,Maham Farooq,Islamabad,20/10/1992,A+,F,2485635748153,mahamfarooq@gmaill.com,3335487513,"House no 2,street 4,DHA Phase 1,Rawalpindi",3335487513,Farooq
+62,usmanmalik,Usman Malik,Islamabad,24/06/1998,B-,M,2485635748154,usmanmalik@gmaill.com,3335487514,"House no 3,street 4,DHA Phase 1,Rawalpindi",3335487514,Ahmed
+63,sabaahmed,Saba Ahmed,Islamabad,29/07/1994,O+,F,2485635748155,sabaahmed@gmaill.com,3335487515,"House no 4,street 4,DHA Phase 1,Rawalpindi",3335487515,Ahmed
+64,ahmedhassan,Ahmed Hassan,Islamabad,22/05/2001,O+,M,2485635748156,ahmedhassan@gmaill.com,3335487516,"House no 5,street 4,DHA Phase 1,Rawalpindi",3335487516,Hassan
+65,samiaahmed,Samia Ahmed,Islamabad,12/02/2001,O-,F,2485635748157,samiaahmed@gmaill.com,3335487517,"House no 6,street 4,DHA Phase 1,Rawalpindi",3335487517,Ahmed
+66,imrankhan,Imran Khan,Islamabad,04/10/2003,B+,M,2485635748158,imrankhan@gmaill.com,3335487518,"House no 7,street 4,DHA Phase 1,Rawalpindi",3335487518,Ali
+67,farhanali,Farhan Ali,Islamabad,01/11/1992,A+,M,2485635748159,farhanali@gmaill.com,3335487519,"House no 8,street 4,DHA Phase 1,Rawalpindi",3335487519,Ali
+68,maryamkhan,Maryam Khan,Islamabad,08/01/1998,A+,F,2485635748160,maryamkhan@gmaill.com,3335487520,"House no 9,street 4,DHA Phase 1,Rawalpindi",3335487520,Ahmed
+69,bilalahmed,Bilal Ahmed,Islamabad,28/08/1998,B-,M,2485635748161,bilalahmed@gmaill.com,3335487521,"House no 10,street 4,DHA Phase 1,Rawalpindi",3335487521,Ahmed
+70,hirakhan,Hira Khan,Islamabad,29/08/1998,A+,F,2485635748162,hirakhan@gmaill.com,3335487522,"House no 11,street 4,DHA Phase 1,Rawalpindi",3335487522,Farooq

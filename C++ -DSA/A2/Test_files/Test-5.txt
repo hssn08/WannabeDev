@@ -1,0 +1,44 @@
+|start|
+	|priorty|
+		7
+	|\priorty|
+	
+	|head|
+		|tab||\tab| |tab||\tab| |tab||\tab| 5th File.
+	|\head|
+	
+	|paragraph|
+
+
+		Process this file Convert the given Infix expressions to postfix expression using standard algorithm. |In_exp| A – B + C $ D $ E - F * G / H |\In_exp| 
+                  and |In_exp| x ^ y / ( 5 * z ) + 2 |\In_exp| and |In_exp| a + b * c + d |\In_exp| .
+
+                Show your Coding skills and Dont use any built-in function for handling character array
+		Read the below algorithm
+ 	        Steps to Convert Postfix to Infix :
+		Read the symbol from the input .based on the input symbol go to step 2 or 3.
+		If symbol is operand then push it into stack.
+		If symbol is operator then pop top 2 values from the stack.
+		this 2 popped value is our operand .
+		create a new string and put the operator between this operand in string.
+		push this string into stack.
+		At the end only one value remain in stack which is our infix expression.
+
+		Input the the expression to convert it into Infix form |post_exp| a b + c * |\post_exp| and |post_exp| a b c * d e - / +|\post_exp|. 
+		
+		Wait you have to do one more task to complete this assignment
+		you have to evaluate on more statement to prove your  skills on basic stack working. 
+		Show the result if the given string after evaluation |sol_exp| 7 4 -3 * 1 5 + / * |\sol_exp|. Oh again |sol_exp| 7 4 - 3 * 1 5 + / * |\sol_exp|
+	|\paragraph|
+	
+	|paragraph| 
+		Did you miss assignment 1?. Now, tell me the about the number of galxies in the picture. ):		
+		Total galxies in picture are |src| \images\img4 |\src|. Don't forget to save the genrated images in output folder.
+	|\paragraph|
+
+		
+		This is simply a test of your stack management abilities.|pick| So, I hope you pass this test as well,|tick| so keep going. |hick|
+		So now |\hick|I'm sick of this stuff|\tick|. |\pick| That, I believe, is sufficient.
+	|\chk|
+	|\paragraph|
+|\start|

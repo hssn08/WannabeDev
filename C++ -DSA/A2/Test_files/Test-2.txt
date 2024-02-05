@@ -1,0 +1,31 @@
+|start|
+	|priorty|
+		12
+	|\priorty|
+	
+	|head|
+		|tab||\tab| |tab||\tab| |tab||\tab| 2nd File.
+	|\head|
+	
+	|paragraph|
+		The file getting processed and the converted postfix notations are |post_exp| a + b * c |\post_exp| and |post_exp| (a + b) * c) |\post_exp|.
+		One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+		so show this expression in to prefix form |pre_exp| a * b / (c + d) ^ f - g |\pre_exp|. 
+		The skill test doesn't stop there,
+		you have to evaluate on more statement to prove your  skills on basic stack working. 
+		Evalaution result of provided strings are |sol_exp| a b c * +.
+	
+	
+	|paragraph| 
+		So,you said you enjoyed the previous assignment and learned much and more :). Now, tell me the about the number of galxies in the picture.		
+		Total galxies in picture are |src| \images\img2 . 
+	|\paragraph|
+	
+	|paragraph|
+	|chk|
+		
+		This is simply a test of your stack management abilities.|pick| So, I hope you pass this test as well,|tick| so keep going. |hick|
+		So now |\hick|I'm sick of this stuff|\tick|. |\pick| That, I believe, is sufficient.
+	|\chk|
+	|\paragraph|
+|\start|

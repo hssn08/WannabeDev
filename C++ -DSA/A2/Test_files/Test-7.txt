@@ -1,0 +1,34 @@
+|start|
+	|priorty|
+		7
+	|\priorty|
+	
+	|head|
+		|tab||\tab| |tab||\tab| |tab||\tab| 6th File.
+	|\head|
+	
+	|paragraph|
+		Do you remember the questions in our school exams where we evaluated an infix, postfix or prefix expression?
+		The only thing we could wish for then is a computer program that would directly give us the answer on entering the expression as input. 
+		Well, guess what?
+		A common question in the coding rounds of interviews is to write a program for “Expression evaluation using Stack”. 
+		In this article, we will learn how to solve that question.
+                The file getting processed and the converted Infix notations are |post_exp| ( A + B ) * C / D - E |\post_exp| and |pre_exp| ( A + B / C * ( D + C ) - F ) |\pre_exp| and |post_exp| m * n + ( p - q ) + r |\pre_exp| .
+		One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+		so show this expression in to Infix form |post_exp|ABC-/D*E+ |\post_exp| and |post_exp| mn*pq-+r+|\post_exp|. 
+		
+                  To begin with, let us see how infix expression evaluation using stack.  |sol_exp| 2 * ( 5 * ( 3 + 6 ) ) / 5 - 2 |\sol_exp|.
+	|\paragraph|
+	
+	|paragraph| 
+		So,you said you enjoyed the previous assignment and learned much and more :). Now, tell me the about the number of galxies in the picture.		
+		Total galxies in picture are |src| \images\img1 |\src|. 
+	|\paragraph|
+	|paragraph|
+	|chk|
+		
+		This is simply a test of your stack management abilities.|pick| So, I hope you pass this test as well,|tick| so keep going. |hick|
+		So now |\hick|I'm sick of this stuff|\tick|. |\pick| That, I believe, is sufficient.
+	|\chk|
+	|\paragraph|
+|\start|

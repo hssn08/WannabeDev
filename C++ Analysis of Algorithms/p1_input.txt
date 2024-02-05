@@ -1,0 +1,14 @@
+groups = {{'lettuce', 'tomato', 'cucumber'},
+  {'pasta', 'tomato', 'chicken'},
+  {'flour', 'sugar', 'eggs', 'milk'},
+  {'milk', 'sugar', 'custard'}}
+Test case 1
+nums = ['onions', 'potatoes', 'pasta', 'lettuce', 'tomato', 'cucumber', 'mangoes', 'pasta', 'tomato', 'chicken', 'bananas', 'apples', 'flour', 'sugar', 'eggs', 'milk', 'milk', 'custard', 'sugar']
+Test case 2
+nums = ['pasta', 'tomato', 'chicken', 'onion', 'lettuce', 'cucumber', 'tomato', 'potatoes', 'milk', 'sugar', 'custard', 'bananas', 'flour', 'sugar', 'eggs', 'milk', 'mangoes’]
+Test case 3
+nums = ['pasta', 'tomato', 'chicken', 'lettuce', 'cucumber', 'milk', 'sugar', 'custard', 'flour', 'sugar', 'eggs', 'milk', 'tomato']
+Test case 4
+nums = ['pasta', 'chicken', 'tomato', 'lettuce', 'cucumber', 'milk', 'sugar', 'custard', 'flour', 'sugar', 'eggs', 'milk']
+Test case 5
+nums = ['lettuce', 'tomato', 'cucumber', 'pasta', 'tomato', 'chicken', 'flour', 'sugar', 'eggs', 'milk', 'milk', 'sugar']
